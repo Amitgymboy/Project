@@ -1,0 +1,9 @@
+H:\Programing\Dodge\Dodge\bin\Debug\Dodge.exe.config
+H:\Programing\Dodge\Dodge\bin\Debug\Dodge.exe
+H:\Programing\Dodge\Dodge\bin\Debug\Dodge.pdb
+H:\Programing\Dodge\Dodge\obj\Debug\Dodge.csprojResolveAssemblyReference.cache
+H:\Programing\Dodge\Dodge\obj\Debug\Dodge.frmDodge.resources
+H:\Programing\Dodge\Dodge\obj\Debug\Dodge.Properties.Resources.resources
+H:\Programing\Dodge\Dodge\obj\Debug\Dodge.csproj.GenerateResource.Cache
+H:\Programing\Dodge\Dodge\obj\Debug\Dodge.exe
+H:\Programing\Dodge\Dodge\obj\Debug\Dodge.pdb
